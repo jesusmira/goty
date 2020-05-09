@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-de086": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-de086"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-de086"
+  }
+}
